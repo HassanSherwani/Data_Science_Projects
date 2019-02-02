@@ -10,5 +10,5 @@ matplotlib<br>
 pyLDAvis<br>
 
 
-# Dataset<br>
-First, the 20 newsgroups dataset available in sklearn is loaded. As always, the headers, footers and quotes are removed.
+# Corpus<br>
+Raw data taken from USPTO related to aritificial intelligence patents.
