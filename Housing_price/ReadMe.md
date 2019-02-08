@@ -16,3 +16,6 @@ pandas<br>
 matplotlib<br>
 seaborn<br>
 scipy<br>
+sklearn<br>
+xgboost<br>
+missingno<br>
