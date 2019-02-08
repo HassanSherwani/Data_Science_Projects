@@ -6,7 +6,8 @@ The Ames Housing Dataset, compiled by Dean De Cock, consists of Sale Price of 14
 
 Data set contains information from the Ames Assessor’s Office used in computing assessed values for individual residential properties sold in Ames, IA from 2006 to 2010.<br>
 
-# SOURCES:<br> Ames, Iowa Assessor’s Office
+# SOURCES:<br> 
+Ames, Iowa Assessor’s Office
 
 # Modules <br>
 
