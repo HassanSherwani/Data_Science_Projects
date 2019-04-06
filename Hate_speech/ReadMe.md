@@ -1,6 +1,6 @@
 # Twitter Sentiment Analysis: Hate Speech
 
-The objective of this task is to detect hate speech in tweets
+The objective of this excercise is to detect hate speech in tweets
 
 # Method- Text Classifier
 
