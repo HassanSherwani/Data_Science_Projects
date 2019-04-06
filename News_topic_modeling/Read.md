@@ -11,4 +11,4 @@ Data taken from random news and categorizing them according to their respective 
 LDA assumes documents are produced from a mixture of topics. Those topics then generate words based on their probability distribution. Given a dataset of documents, LDA backtracks and tries to figure out what topics would create those documents in the first place.
 
 # Modules
-pandas, matplotlib, numpy, gensim
+pandas, matplotlib, numpy, gensim,bokeh, seaborn,sklearn
